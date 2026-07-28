@@ -27,8 +27,9 @@ A web application for booking college halls.
 ### 2. AutoCura
 AI-based self-healing cloud infrastructure project.
 
-### 3. Sales Dashboard
-Power BI dashboard for sales analysis.
+### 3. Smart Machine Health Tracker
+An IoT-based system that monitors machine vibration, temperature, and humidity using ESP32, MPU6050, and DHT11 sensors. It provides real-time monitoring and alerts through ThingSpeak cloud.
+
 
 ---
 
