@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I am Anushka Pagar, a Third-Year B.Tech student in Artificial Intelligence and Data Science. I enjoy building AI, Machine Learning, Data Analytics, and Python projects.
+Hello! I am Anushka Pagar, a Final-Year B.Tech student in Artificial Intelligence and Data Science. I enjoy building AI, Machine Learning, Data Analytics, and Python projects.
 
 ---
 
