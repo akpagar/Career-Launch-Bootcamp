@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Hello! I am Anushka Pagar, a Final-Year B.Tech student in Artificial Intelligence and Data Science. I enjoy building AI, Machine Learning, Data Analytics, and Python projects.
+Hello! I am Anushka Pagar, Dedicated Artificial Intelligence and Data Science student with experience in Python, databases (SQL, MongoDB),C++ and data visualization using Power BI. quickly adapts to new technologies and AI tools, with a willingness to learn, a problem-solving mindset, good communication and collaboration skills.
+
 
 ---
 
