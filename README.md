@@ -24,7 +24,7 @@ Hello! I am Anushka Pagar, a Final-Year B.Tech student in Artificial Intelligenc
 ### 1. Hall Booking System
 A web application for booking college halls.
 
-### 2. AutoCura
+### 2. AutoCura(Ongoing)
 AI-based self-healing cloud infrastructure project.
 
 ### 3. Smart Machine Health Tracker
